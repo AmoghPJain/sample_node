@@ -1,0 +1,25 @@
+{
+  "name": "github-actions-info-app",
+  "version": "1.0.0",
+  "description": "A Node.js application that displays information about GitHub Actions using Bootstrap 5.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.22.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "keywords": [
+    "GitHub",
+    "Actions",
+    "Node.js",
+    "Bootstrap"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
